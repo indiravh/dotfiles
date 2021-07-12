@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = indira_vanhulle@hotmail.com
+	name = Indira Vanhulle
